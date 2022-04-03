@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youtube Player</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="play_a_single_video">Play a single video</string>
+    <string name="standalone_sub_menu">Standalone Sub Menu</string>
+    <string name="play_video">Play Video</string>
+    <string name="play_playlist">Play Playlist</string>
+</resources>
